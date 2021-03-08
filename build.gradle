@@ -10,6 +10,11 @@ repositories {
     mavenCentral()
 }
 
+compileJava {
+    sourceCompatibility = 13
+    targetCompatibility = 13
+}
+
 mainClassName= 'ru.schepin.example.App'
 
 dependencies {
