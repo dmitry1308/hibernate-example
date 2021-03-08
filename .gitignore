@@ -161,6 +161,5 @@ gradle/
 gradlew
 gradlew.bat
 settings.gradle
-src/main/java/ru/schepin/example/App.java
 src/main/resources/
 src/test/
